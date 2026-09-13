@@ -95,3 +95,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn statsmodels pyarrow jup
 | `ModuleNotFoundError: No module named 'pandas'` | пакет поставлен в другой venv | проверьте `(.venv)` в строке терминала и переставьте пакет |
 | `ModuleNotFoundError: No module named 'pyarrow'` | нет библиотеки для `.parquet` | `pip install pyarrow` |
 | Всё сломалось за 15 минут до сдачи | — | открываете Colab и не мучайтесь |
+
+Удачи!
