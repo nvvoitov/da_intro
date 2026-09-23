@@ -24,7 +24,8 @@
 |---|---|---|
 | L01 | Первое знакомство с данными: загрузка, EDA, регрессия и взаимодействие, ближайшие соседи | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L01.ipynb) |
 | L02 | Линейная регрессия: RSS, стандартные ошибки, $t$, $F$, $R^2$, категории и взаимодействия, диагностика остатков | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L02.ipynb) |
-| L03 | Валидация и регуляризация: кросс-валидация, бутстрап, три утечки данных, ridge и lasso | TBD |
+| L03 | Валидация и регуляризация: кросс-валидация, бутстрап, три утечки данных, ridge и lasso | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L03.ipynb) |
+| L04 | Логистическая регрессия | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L04.ipynb) |
 
 Отдельных файлов с домашкой нет: задание всегда лежит внутри ноутбука после ячеек лекции.
 
