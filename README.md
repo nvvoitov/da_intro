@@ -27,6 +27,7 @@
 | L03 | Валидация и регуляризация: кросс-валидация, бутстрап, три утечки данных, ridge и lasso | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L03.ipynb) |
 | L04 | Логистическая регрессия или как оценить риск банкротства | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L04.ipynb) |
 | L05 | Деревья и бустинг | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L05.ipynb) |
+| L06 | Кластеризация | [Colab](https://colab.research.google.com/github/nvvoitov/da_intro/blob/main/notebooks/L06.ipynb) |
 
 Отдельных файлов с домашкой нет: задание всегда лежит внутри ноутбука после ячеек лекции.
 
